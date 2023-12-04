@@ -1,6 +1,6 @@
 # LoveLocal_Assignment
-Greeshma A Shetty
-College Name: Sahyadri College of Engineering and Management
+Greeshma A Shetty <br>
+College Name: Sahyadri College of Engineering and Management<br>
 Personal Email Id: greeshmashettya@gmail.com
 College Email Id: greeshmaa.is20@sahyadri.edu.in
 
