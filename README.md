@@ -1,8 +1,8 @@
 # LoveLocal_Assignment
 Greeshma A Shetty <br>
 College Name: Sahyadri College of Engineering and Management<br>
-Personal Email Id: greeshmashettya@gmail.com
-College Email Id: greeshmaa.is20@sahyadri.edu.in
+Personal Email Id: greeshmashettya@gmail.com  
+College Email Id: greeshmaa.is20@sahyadri.edu.in  
 
 This repository contains Java solutions for given coding challenges.
 1. PascalTriangle.java - Easy 3
